@@ -200,7 +200,7 @@ summary {
 <h1></h1>
 </div>
 <div id="mini-project-4" class="section level1 tabset">
-<h1 class="tabset">Mini project 4</h1>
+<h1 class="tabset">Predicting death during ICU stay</h1>
 <p>In this project I will predict the outcome <em>death during an ICU stay</em>.</p>
 <p>This project will include the following sections:</p>
 <ul>
